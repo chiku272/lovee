@@ -4,4 +4,4 @@ A simple static webpage as a gift for my girlfriend . Although a personal projec
 You can check this out with 
 
 <br>
-Link: https://chiku272.github.io/LoveProject
+Link: https://github.com/chiku272/lovee.git
